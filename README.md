@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/bysertechnology" target="blank"><img src="https://img.shields.io/twitter/follow/bysertechnology?logo=twitter&style=for-the-badge" alt="bysertechnology" /></a> </p>
 
-- 🔭 I’m currently working on **Note App with kotlin**
+- 🔭 I’m currently working on **Laravel Project called CIS**
 
-- 🌱 I’m currently learning **Android app development with Kotlin and Django web development**
+- 🌱 I’m currently learning **Laravel and Flutter**
 
-- 👨‍💻 All of my projects are available at [https://www.instagram.com/africantechnology](https://www.instagram.com/africantechnology)
+- 👨‍💻 All of my projects are available at [https://twitter.com/bysertechnology](https://twitter.com/bysertechnology)
 
-- 📝 I regularly write articles on [Https://www.instagram.com/africantechnology](Https://www.instagram.com/africantechnology)
+- 📝 I regularly write articles on [https://twitter.com/bysertechnology](https://twitter.com/bysertechnology)
 
-- 💬 Ask me about **Kotlin, Django web framework**
+- 💬 Ask me about **Flutter, Laravel, Django**
 
 - 📫 How to reach me **Lucasronald97@yahoo.com**
 
